@@ -1,0 +1,102 @@
+c:\users\fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta1.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MenuPrincipal.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MenuFiestas.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarFiesta.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada1.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada3.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta2.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada2.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta3.resources
+C:\Users\Fer\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.exe
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Controladora.exe
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.exe
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Controladora.pdb
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ABMColegios.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarColegio.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarSalon.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarSalon.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ABMSalones.resources
+C:\Users\Fer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarSalon.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Controladora.exe
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.exe
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.exe
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Controladora.pdb
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ABMColegios.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarColegio.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarSalon.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarSalon.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta3.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta1.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MenuPrincipal.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ABMSalones.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MenuFiestas.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarFiesta.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarSalon.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada1.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada3.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta2.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada2.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarColegio.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarColegio.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarFiesta.resources
+C:\Users\Nau\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarFiesta.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Controladora.exe
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.exe
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.exe
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Controladora.pdb
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DAO.pdb
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ABMColegios.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarColegio.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarSalon.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarColegio.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarFiesta.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.EliminarSalon.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta3.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta1.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MenuPrincipal.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ABMSalones.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.MenuFiestas.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AgregarFiesta.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarColegio.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarFiesta.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarSalon.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada3.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.IngresoFiesta2.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada2.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.VentaEntrada1N.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarEntrada.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ModificarEntrada1.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AnularEntrada1.resources
+C:\Users\Fer\Desktop\Proyecto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AnularEntrada2.resources

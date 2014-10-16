@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E4541D54-0A6A-46BD-A517-2E9147BED2DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABMColegios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMColegios.Designer.cs">
+      <DependentUpon>ABMColegios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarColegio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarColegio.Designer.cs">
+      <DependentUpon>AgregarColegio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregar Salon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar Salon.Designer.cs">
+      <DependentUpon>Agregar Salon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnularEntrada1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnularEntrada1.Designer.cs">
+      <DependentUpon>AnularEntrada1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnularEntrada2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnularEntrada2.Designer.cs">
+      <DependentUpon>AnularEntrada2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarColegio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarColegio.Designer.cs">
+      <DependentUpon>EliminarColegio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarFiesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarFiesta.Designer.cs">
+      <DependentUpon>EliminarFiesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EliminarSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarSalon.Designer.cs">
+      <DependentUpon>EliminarSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoFiesta3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoFiesta3.Designer.cs">
+      <DependentUpon>IngresoFiesta3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoFiesta1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoFiesta1.Designer.cs">
+      <DependentUpon>IngresoFiesta1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABMSalones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABMSalones.Designer.cs">
+      <DependentUpon>ABMSalones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuFiestas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuFiestas.Designer.cs">
+      <DependentUpon>MenuFiestas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarFiesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarFiesta.Designer.cs">
+      <DependentUpon>AgregarFiesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarColegio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarColegio.Designer.cs">
+      <DependentUpon>ModificarColegio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarEntrada.Designer.cs">
+      <DependentUpon>ModificarEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarEntrada1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarEntrada1.Designer.cs">
+      <DependentUpon>ModificarEntrada1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarFiesta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarFiesta.Designer.cs">
+      <DependentUpon>ModificarFiesta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarSalon.Designer.cs">
+      <DependentUpon>ModificarSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentaEntrada1N.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaEntrada1N.Designer.cs">
+      <DependentUpon>VentaEntrada1N.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentaEntrada3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaEntrada3.Designer.cs">
+      <DependentUpon>VentaEntrada3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresoFiesta2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoFiesta2.Designer.cs">
+      <DependentUpon>IngresoFiesta2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentaEntrada2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentaEntrada2.Designer.cs">
+      <DependentUpon>VentaEntrada2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ABMColegios.resx">
+      <DependentUpon>ABMColegios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarColegio.resx">
+      <DependentUpon>AgregarColegio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregar Salon.resx">
+      <DependentUpon>Agregar Salon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnularEntrada1.resx">
+      <DependentUpon>AnularEntrada1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnularEntrada2.resx">
+      <DependentUpon>AnularEntrada2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarColegio.resx">
+      <DependentUpon>EliminarColegio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarFiesta.resx">
+      <DependentUpon>EliminarFiesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarSalon.resx">
+      <DependentUpon>EliminarSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoFiesta3.resx">
+      <DependentUpon>IngresoFiesta3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoFiesta1.resx">
+      <DependentUpon>IngresoFiesta1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABMSalones.resx">
+      <DependentUpon>ABMSalones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuFiestas.resx">
+      <DependentUpon>MenuFiestas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarFiesta.resx">
+      <DependentUpon>AgregarFiesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarColegio.resx">
+      <DependentUpon>ModificarColegio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarEntrada.resx">
+      <DependentUpon>ModificarEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarEntrada1.resx">
+      <DependentUpon>ModificarEntrada1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarFiesta.resx">
+      <DependentUpon>ModificarFiesta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarSalon.resx">
+      <DependentUpon>ModificarSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaEntrada1N.resx">
+      <DependentUpon>VentaEntrada1N.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaEntrada3.resx">
+      <DependentUpon>VentaEntrada3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoFiesta2.resx">
+      <DependentUpon>IngresoFiesta2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentaEntrada2.resx">
+      <DependentUpon>VentaEntrada2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controladora\Controladora.csproj">
+      <Project>{F846CF70-C331-4CCE-BB7A-0E3D8812F071}</Project>
+      <Name>Controladora</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{1673C96D-7EF3-4936-9F98-24419116BFDF}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
